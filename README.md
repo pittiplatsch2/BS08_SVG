@@ -5,7 +5,7 @@ Einbinden der SVGs über Github
 
 POI Marker Rot
 
-1	https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/Rot_1.svg /n
+1	https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/Rot_1.svg
 2	https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/Rot_2.svg
 3	https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/Rot_3.svg
 4	https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/Rot_4.svg
