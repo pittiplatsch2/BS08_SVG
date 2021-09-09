@@ -40,3 +40,5 @@ Sonstiger Marker
 name|icon|url
 -|-|-
 Bushaltestelle|<img src="https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/%C3%96PNVHaltestelle.svg"/>|https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/%C3%96PNVHaltestelle.svg
+S-Bahn|<img src="https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/SBahn.svg"/>|https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/SBahn.svg
+Logo|<img src=""/>|
