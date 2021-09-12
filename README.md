@@ -44,5 +44,8 @@ S-Bahn|<img src="https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/S
 Bus|<img src="https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/%C3%96PNVBus.svg"/>|https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/%C3%96PNVBus.svg
 U-Bahn|<img src="https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/%C3%96PNVU-Bahnhof.svg"/>|https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/%C3%96PNVU-Bahnhof.svg
 Fähre| <img src="https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/F%C3%A4hranleger.svg"/>|https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/F%C3%A4hranleger.svg
-Logo|<img src="https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/Firmenlogo_1.svg"/>|https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/Firmenlogo_1.svg
+Logo |<img src="https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/Firmenlogo_1.svg"/>|https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/Firmenlogo_1.svg
+Logo2|<img src="https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/Firmenlogo_2.svg"/>|https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/Firmenlogo_2.svg
+
+
 
