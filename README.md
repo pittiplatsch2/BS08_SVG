@@ -46,6 +46,5 @@ U-Bahn|<img src="https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/%
 Fähre| <img src="https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/F%C3%A4hranleger.svg"/>|https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/F%C3%A4hranleger.svg
 Logo |<img src="https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/Firmenlogo_1.svg"/>|https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/Firmenlogo_1.svg
 Logo2|<img src="https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/Firmenlogo_2.svg"/>|https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/Firmenlogo_2.svg
-
-
+Pin | <img src="https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/pin.svg"/>|https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/pin.svg
 
