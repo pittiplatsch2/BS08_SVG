@@ -45,5 +45,6 @@ Bus|<img src="https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/%C3%
 U-Bahn|<img src="https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/%C3%96PNVU-Bahnhof.svg"/>|https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/%C3%96PNVU-Bahnhof.svg
 Fähre| <img src="https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/F%C3%A4hranleger.svg"/>|https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/F%C3%A4hranleger.svg
 Logo4|<img src="https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/Firmenlogo_4.svg"/>|https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/Firmenlogo_4.svg
-Pin | <img src="https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/pin.svg"/>|https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/pin.svg
+GrünerRing | <img src="https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/SymbolGruenerRing.svg"/>|https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/SymbolGruenerRing.svg
+GrünerRing2 | <img src="https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/SymbolGruenerRing2.svg"/>|https://raw.githubusercontent.com/pittiplatsch2/BS08_SVG/main/SymbolGruenerRing2.svg
 
